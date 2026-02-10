@@ -8,7 +8,6 @@ st.title("🍕 Pizza Project Data Analysis")
 
 try:
     df = pd.read_csv('R6036699.csv')
-    st.success("File loaded successfully!")
 
     # 2. BASIC DATA ANALYSIS
     
